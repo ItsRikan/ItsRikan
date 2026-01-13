@@ -13,8 +13,6 @@
 - 🌍 Passionate about **open source & developer tooling**
 - 🏆 Hackathon builder | Team-driven problem solver
 
-> *“I don’t just ask how things work — I ask why they are designed that way.”*
-
 ---
 
 ## 🧠 Technical Focus
